@@ -1,6 +1,4 @@
 # AI Image Generator-React Native
- 	This application allows us to generate images based on prompts using AI.
-
 
 I am working on an application developed using React Native. This application offers the functionality of generating images using artificial intelligence techniques. The goal is to enable users to create unique images by specifying different parameters and preferences.
 
